@@ -1,4 +1,4 @@
-# amazon-india-search-extension
+# Amazon India Search Extension
 Amazon India (amazon.in) Search
 
 To install: https://addons.mozilla.org/firefox/addon/amazon-in-amazon-in-search/
