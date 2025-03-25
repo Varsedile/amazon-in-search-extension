@@ -17,6 +17,5 @@
 			"search_url": "https://www.amazon.in/s",
 			"search_form": "https://www.amazon.in/",
 			"search_url_get_params": "k={searchTerms}"
-		}
 	}
 }
